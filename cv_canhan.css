@@ -1,0 +1,144 @@
+body{
+    width: 1100px;
+    height: 1400px;
+}
+.d{
+    width: 1100px;
+    height: 1400px; 
+    
+}
+.d1{
+    width: 200px;
+    height: 700px;
+    float: left;
+    
+}
+.d2{
+    width: 498px;
+    height: 700px;
+    float: left;
+    border: 1px solid black;
+}
+.d21{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-color: rgb(61, 61, 145);
+}
+.d211{
+    background-color: azure;
+    width: 160px;
+    height: 160px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.d22{
+    background-color: white;
+    float: left;
+    width: 298px;
+    height: 200px;
+}
+#d23{
+    width: 200px;
+    height: 500px;
+    float: left;
+    background-color: rgb(61, 61, 145);
+}
+.d24{
+    background-color: white;
+    width: 298px;
+    height: 500px;
+    float: left;
+}
+.d3{
+    width: 300PX;
+    height: 700px;
+    float: left;
+}
+.p2{
+    position: relative;
+    top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    color: blue
+}
+.p3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    bottom: 35px;
+    color: blue;
+}
+.p4{
+    background-color: white;
+    font-size: 22px;
+    width: 190px;
+    height: 30px;
+    font-weight: bold;
+    border-radius: 0 30px 30px 0;
+    background-size: 190px 30px;
+}
+.hr1{
+    color: white; 
+    height: 2px; 
+    width: 180px;
+    position: relative;
+    top: 30px;
+    background-color: white;
+}
+.hr2{
+    background-color: black ;color: black; width: 280px;
+    height: 3px;
+    position: relative;
+    bottom: 50px;
+
+}
+.p5{
+    width: 200px;
+    height: 27px;
+    font-size: 20px;
+    color: white;
+
+}
+.p6{
+    width: 280px;
+    height: 28px;
+    background-color: rgb(61, 61, 145);
+    color: white;
+    border-radius: 30px 30px 30px 30px; 
+    text-align: center;
+    font-size: 24px;
+    position: relative;
+    left: 10px;
+}
+.i1{
+    width: 20px;
+    height: 20px;
+}
+#vi1{
+    width: 500px;
+    height: 50px;
+    position: relative;
+    left: 200px;
+}
+.d4{
+    width: 1000px;
+    height: 300px;
+    float: left;
+    background-color: red;
+}
+.d42{
+    width: 1100px;
+    height: 50px;
+    float: left;
+}
+.d5{
+    width: 200px;
+    height: 10px;
+    float: left;
+    position: relative;
+    left: 200px;
+}

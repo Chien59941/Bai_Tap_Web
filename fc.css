@@ -1,0 +1,142 @@
+.tong{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(207, 205, 205);
+    margin-left: 150px;
+}
+.con{
+    float: left;
+    width: 400px;
+    height: 500px;
+    margin-left: 50px;
+    background-color: white;
+    background-size: 400px 500px ;
+}
+.p1{
+    width: 500px;
+    height: 25px;
+    font-size: 55px;
+    color: blue;
+    text-align: center;
+}
+.p2{
+    width: 400px;
+    height: 10px;
+    font-size: 25px;
+    text-align: center;
+}
+.p3{
+    width: 400px;
+    height: 10px;
+    font-size: 15px;
+    text-align: center;
+}
+.p4{
+    float: left;
+    width: 400px;
+    height: 5px;
+    margin-left: 10px;
+    font-size: 10px;
+    color: rgb(57, 57, 57);
+}
+hr{
+    width: 400px;
+    height: 2px;
+    color: rgb(243, 240, 240);
+}
+form{
+    width: 400px;
+    height: 400px;
+}
+#ip1{
+    float: left;
+    width: 185px;
+    height: 20px;
+    margin-left: 10px;
+}
+#ip5{
+    float: left;
+    width: 185px;
+    height: 20px;
+    margin-left: 10px;
+}
+.ip2{
+    float: left;
+    width: 380; 
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.ip4{
+    float: left;
+    width: 380; 
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#lb1{
+    width: 400px;
+    height: 20px;
+}
+#sel1{
+    width: 115px;
+    height: 20px;
+    margin-left: 10px;
+    float: left;
+}
+#sel2{
+    width: 125px;
+    height: 20px;
+    margin-left: 7px;
+    float: left;
+}
+#sel3{
+    width: 125px;
+    height: 20px;
+    margin-left: 7px;
+    float: left;
+}
+.d1{
+    float: left;
+    width: 120px;
+    height: 20px;
+    margin-left: 10px;
+    border: 1px solid rgb(134, 134, 134);
+    border-radius: 5%;
+}
+.lb3{
+    float: right;
+}
+#sel4{
+    width: 380px;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.ip3{
+    color: white; 
+    background-color: green;
+    width: 150px;
+    height: 30px;
+    border: white 1px solid;
+    border-radius: 5px;
+    position: relative;
+    left: 125px;
+}
+.d6{
+    width: 400px;
+    height: 50px;
+    position: relative;
+    top: 40px;
+}
+.d7{
+    width: 400px;
+    height: 50px;
+}
+.p7{
+    font-size: 15px;
+    color: blue;
+    text-align: center;
+    position: relative;
+    top: 70px;
+}
